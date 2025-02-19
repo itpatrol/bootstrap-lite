@@ -308,3 +308,66 @@ span.password-toggle-wrapper {
 .cyborg .menu-dropdown a {
   color: #888888;
 }
+
+/* Overrides dropbutton a colors for all Bootswatch themes */
+
+body.cerulean .dropbutton .dropbutton-action a { color: #2fa4e7; }
+body.cerulean .dropbutton .dropbutton-action a:hover { color: #1f7fb8; }
+
+body.cosmo .dropbutton .dropbutton-action a { color: #2780e3; }
+body.cosmo .dropbutton .dropbutton-action a:hover { color: #1862c6; }
+
+body.cyborg .dropbutton .dropbutton-action a { color: #2a9fd6; }
+body.cyborg .dropbutton .dropbutton-action a:hover { color: #207ab7; }
+
+body.darkly .dropbutton .dropbutton-action a { color: #375a7f; }
+body.darkly .dropbutton .dropbutton-action a:hover { color: #2c3e50; }
+
+body.flatly .dropbutton .dropbutton-action a { color: #18bc9c; }
+body.flatly .dropbutton .dropbutton-action a:hover { color: #13967d; }
+
+body.journal .dropbutton .dropbutton-action a { color: #eb6864; }
+body.journal .dropbutton .dropbutton-action a:hover { color: #d75c5a; }
+
+body.litera .dropbutton .dropbutton-action a { color: #4582ec; }
+body.litera .dropbutton .dropbutton-action a:hover { color: #336fd1; }
+
+body.lumen .dropbutton .dropbutton-action a { color: #158cba; }
+body.lumen .dropbutton .dropbutton-action a:hover { color: #1177a5; }
+
+body.lux .dropbutton .dropbutton-action a { color: #1a73e8; }
+body.lux .dropbutton .dropbutton-action a:hover { color: #0f5bb5; }
+
+body.materia .dropbutton .dropbutton-action a { color: #2196f3; }
+body.materia .dropbutton .dropbutton-action a:hover { color: #176dae; }
+
+body.minty .dropbutton .dropbutton-action a { color: #78c2ad; }
+body.minty .dropbutton .dropbutton-action a:hover { color: #67a897; }
+
+body.pulse .dropbutton .dropbutton-action a { color: #593196; }
+body.pulse .dropbutton .dropbutton-action a:hover { color: #442576; }
+
+body.sandstone .dropbutton .dropbutton-action a { color: #325d88; }
+body.sandstone .dropbutton .dropbutton-action a:hover { color: #284b6e; }
+
+body.simplex .dropbutton .dropbutton-action a { color: #d9230f; }
+body.simplex .dropbutton .dropbutton-action a:hover { color: #b71d0b; }
+
+body.slate .dropbutton .dropbutton-action a { color: #dd5a43; }
+body.slate .dropbutton .dropbutton-action a:hover { color: #ba4c37; }
+
+body.solar .dropbutton .dropbutton-action a { color: #3a3a3a; }
+body.solar .dropbutton .dropbutton-action a:hover { color: #2e2e2e; }
+
+body.spacelab .dropbutton .dropbutton-action a { color: #3399f3; }
+body.spacelab .dropbutton .dropbutton-action a:hover { color: #2a7ecf; }
+
+body.superhero .dropbutton .dropbutton-action a { color: #ff6c60; }
+body.superhero .dropbutton .dropbutton-action a:hover { color: #e65550; }
+
+body.united .dropbutton .dropbutton-action a { color: #e95420; }
+body.united .dropbutton .dropbutton-action a:hover { color: #c8461c; }
+
+body.yeti .dropbutton .dropbutton-action a { color: #008cba; }
+body.yeti .dropbutton .dropbutton-action a:hover { color: #0079a5; }
+
